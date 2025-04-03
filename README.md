@@ -1,3 +1,26 @@
+
+# User Authentication System
+
+This project is a user authentication system that allows users to **register**, **log in**, and **reset their password** if forgotten. It's built using modern web technologies to provide a secure and efficient user experience.
+
+## 🚀 Features
+- **User Registration:** Allows new users to create an account.
+- **Login Functionality:** Secure login system with user authentication.
+- **Forgot Password & Reset:** Users can reset their password via email.
+
+## 💻 Technologies Used
+- **Frontend:** React (or specify if different)
+- **Backend:** Node.js, Express (if applicable)
+- **Database:** MongoDB/MySQL/PostgreSQL (specify your DB)
+- **Authentication:** JWT, Bcrypt, etc. (if applicable)
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Anil12345z/login-App.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
